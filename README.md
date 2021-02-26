@@ -8,9 +8,9 @@ if it doesnt include MSTest you can install by:
 
 _Navigate to Tools -> NuGet Package Manager -> Manager NuGet Packages for Solution and search for the following packages in the Browse tab:_
 
-MSTest.TestAdapter  
+_MSTest.TestAdapter  
 MSTest.TestFramework  
-Microsoft.NET.Test.Sdk
+Microsoft.NET.Test.Sdk_
 
 * Go to Test Explorer window
 * Select the test and run
