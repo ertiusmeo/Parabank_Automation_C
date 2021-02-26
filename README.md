@@ -6,10 +6,10 @@ This project is to automate registration and login function for https://parabank
 * Install Visual Studio (make sure it support MSTest framework)  
 if it doesnt include MSTest you can install by:
 
-Navigate to Tools -> NuGet Package Manager -> Manager NuGet Packages for Solution and search for the following packages in the Browse tab:
+_Navigate to Tools -> NuGet Package Manager -> Manager NuGet Packages for Solution and search for the following packages in the Browse tab:_
 
-MSTest.TestAdapter
-MSTest.TestFramework
+MSTest.TestAdapter  
+MSTest.TestFramework  
 Microsoft.NET.Test.Sdk
 
 * Go to Test Explorer window
