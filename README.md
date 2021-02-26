@@ -10,13 +10,13 @@ This project is to automate registration and login function for https://parabank
 **List of tests:**
 
 * Login_SuccessfulAccess  
-Verifying succesfull login with valid credentials
+Verifying successful login with valid credentials
 * Login_UnsuccessfulAccess  
-Verifying unsuccesfull login without credentials
+Verifying unsuccessful login without credentials
 * Register_NoRequiredField  
-Verifying unsuccesfull registration without one of required fields
+Verifying unsuccessful registration without one of required fields
 * Register_OpenForm  
-Verifying succesfull registration form opening
+Verifying successful registration form opening
 * Register_PasswordNotMatching  
 Verifying unsuccesful registration with password and confirm password not matching
 * Register_Successful  
