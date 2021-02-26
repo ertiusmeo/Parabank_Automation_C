@@ -3,16 +3,16 @@ This project is to automate registration and login function for https://parabank
 
 
 **Instructions:**
-Install Visual Studio (make sure it support MSTest framework)
-Go to Test Explorer window
-Select the test and run
+* Install Visual Studio (make sure it support MSTest framework)
+* Go to Test Explorer window
+* Select the test and run
 
-**List of tests: **
+**List of tests:**
 
-*Login_SuccessfulAccess
-Login_UnsuccessfulAccess
-Register_NoRequiredField
-Register_OpenForm
-Register_PasswordNotMatching
-Register_Successful
-Register_UsernameExists
+* Login_SuccessfulAccess
+* Login_UnsuccessfulAccess
+* Register_NoRequiredField
+* Register_OpenForm
+* Register_PasswordNotMatching
+* Register_Successful
+* Register_UsernameExists
